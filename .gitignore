@@ -1,4 +1,4 @@
 node_modules/
 .env
-serviceAccountKey.json # Very important! Keep this out of Git.
+serviceAccountKey.json # This is the crucial line for your file
 *.log
